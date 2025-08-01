@@ -6,7 +6,3 @@ debug.py
 .ipynb_checkpoints
 *.DS_Store
 checkpoints
-examples/*_result.mp4
-*.jpg
-*.png
-*.zip
